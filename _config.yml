@@ -1,26 +1,26 @@
 title: QYQ # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   QYQ<br/>
-  永远喜欢水野爱<br/>
-  田宫例四驱车<br/>
-  ASC<br/>
-  <a href="mailto:i@wu-kan.cn">
+  永远爱ZDH<br/>
+  Astrophysicist and Data Analyst<br/>
+  Otaku<br/>
+  <a href="mailto:qyqstc@gamil.com">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/qyqsdtc">
     <i class="fab fa-github"></i>
-  </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
-  </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
-  </a>
+  #  </a>
+  #  <a href="https://codeforces.com/profile/WuK">
+  #    <i class="fas fa-chart-bar"></i>
+  # </a>
+  #<a href="https://vjudge.net/user/WuK">
+    #<i class="fas fa-smile"></i>
+  #</a>
+  #<a href="https://www.zhihu.com/people/wu.kan/activities">
+    #<i class="fab fa-zhihu"></i>
+  #</a>
   <iframe
-    src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
+    src="https://music.163.com/outchain/player?type=0&id=109429764&auto=0&height=32"
     width=100%
     height=52
     frameborder="no"
@@ -39,7 +39,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         default:
           body:
             theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
-            layout-reverse: true # 开启后sidebar在右边，反之左边
+            layout-reverse: false # 开启后sidebar在右边，反之左边
             sidebar-overlay: true # 开启后正文不随sidebar移动而移动
           append_to_head: # 通过内嵌html的方式引入并定制插件，删改前确定知道自己在做什么。定制插件的方式可以参考这篇文章 <https://wu-kan.cn/_posts/2019-01-18-基于Jekyll搭建个人博客/>
             - | #一些页面优化标签，看不懂可跳过
@@ -60,12 +60,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                #href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320
+                href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=320"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=32"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -108,7 +109,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "content": {
                         "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
                         "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
-                        "hidden": true,
+                        "hidden": false,
                         "custom": [{
                           "selector": "a",
                           "type": "link",
