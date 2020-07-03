@@ -617,9 +617,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0wddr4PyVcUnpAIhv_A3qktQ2xf_3Eq5q";
                 var tenpay = "";
                 var alipay = "https://qr.alipay.com/fkx12986kxmd1mvjmytlw1f";
-                var paypal = "";
+                var paypal = "https://paypal.me/DrQYQ?locale.x=en_US";
                 var myname = "QYQ";
-                var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
+                var profile = "https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=320";
                 var multilingual = true;
                 var myname_hans = "钱以骞";
                 var myname_hant = "錢以騫";
