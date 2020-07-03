@@ -7,17 +7,24 @@
 <!-- slide vertical=true -->
 * Address: **University of Texas Rio Grande Valley - 1 West University Blvd - Texas, US**
 * Site: **[https://qyqsdtc.github.io](https://qyqsdtc.github.io)**
+
 <!-- slide -->
+
 * E-mail:
 	* **[qyqstc@gmail.com](qyqstc@gmail.com)**
 	* **[yiqian.qian01@utrgv.edu](yiqian.qian01@utrgv.edu)**
+
 * Facebook: **Benny Albert**
+
 <!-- slide vertical=true -->
+
 ## 我的一些教育情况
 
 - B.S., Department of Physics, Huazhong University of Science & Technology, Wuhan, China
 - M.S., Dept. of Physics & Astronomy, University of Texas Rio Grande Valley, Texas, US
+
 <!-- slide -->
+
 ## 我的一些技能
 
 * **C/C++**, Familiar
@@ -25,13 +32,17 @@
 	* **MPI**, Familiar&Learning
 	* **CUDA**, Learning
 * **Python**, Familiar
+
 <!-- slide vertical=true -->
+
 * **Markdown**, Familiar
 * **LaTex**, Familiar
 * **Linux**, Familiar&Learning
 * **Git**, Familiar
 * **VSCode**, Familiar
+
 <!-- slide -->
+
 ## 感谢
 
 * [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
