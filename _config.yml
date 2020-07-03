@@ -371,7 +371,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "7/19/2017 12:00:00")// This is my first blog
+                    "06/11/2017 12:00:00")// This is my first blog
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
@@ -409,7 +409,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  2017-2020 WuK
+                  2017-2020 QYQ
                 </div>
              # - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
                 #<div>
@@ -603,7 +603,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           group_by: "%b %Y" # 见<https://liquid.bootcss.com/filters/date/>
           posts_count:
             enable: true # 博文数量统计
-            append: 篇博文。长路漫漫！ # 提示语
+            append: 篇博文。路漫漫其修远兮！ # 提示语
           pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
             enable: true
           year_count: true
@@ -619,7 +619,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var alipay = "https://qr.alipay.com/fkx02750b5kbplxvudqrx16";
                 #var paypal = "https://paypal.me/wukan0621";
                 var myname = "QYQ";
-                var profile = "https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=320";
+                var profile = "https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png";
                 var multilingual = true;
                 var myname_hans = "钱以骞";
                 var myname_hant = "錢以騫";
