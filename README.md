@@ -2,11 +2,11 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
-Welcome to my Blog! Let me introduce myself to you ~ 
+Welcome to my Blog! Let me introduce myself to you~ 
 
 <!-- slide -->
 
-## 我的一些联系方式 My Countacts
+## 我的一些联系方式 Countacts
 <!-- slide vertical=true -->
 
 * Address: **University of Texas Rio Grande Valley - 1 West University Blvd - Texas, US**
@@ -22,7 +22,7 @@ Welcome to my Blog! Let me introduce myself to you ~
 
 <!-- slide vertical=true -->
 
-## 我的一些教育情况 My Education
+## 我的一些教育情况 Education
 
 - B.S., Department of Physics, Huazhong University of Science & Technology, Wuhan, China
 - M.S., Dept. of Physics & Astronomy, University of Texas Rio Grande Valley, Texas, US
@@ -58,3 +58,4 @@ Welcome to my Blog! Let me introduce myself to you ~
 
 * [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
 	* 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[Star](https://github.com/wu-kan/wu-kan.github.io)[Fork](https://github.com/wu-kan/wu-kan.github.io/fork)
+
