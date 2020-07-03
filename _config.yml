@@ -619,7 +619,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var alipay = "https://qr.alipay.com/fkx12986kxmd1mvjmytlw1f";
                 #var paypal = "https://paypal.me/wukan0621";
                 var myname = "QYQ";
-                var profile = "https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png";
+                var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
                 var multilingual = true;
                 var myname_hans = "钱以骞";
                 var myname_hant = "錢以騫";
