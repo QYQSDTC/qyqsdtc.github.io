@@ -6,7 +6,7 @@ Welcome to my Blog! Let me introduce myself to you~
 
 <!-- slide -->
 
-## 我的一些联系方式 Countacts
+## 我的一些联系方式 Contacts
 <!-- slide vertical=true -->
 
 * Address: **University of Texas Rio Grande Valley - 1 West University Blvd - Texas, US**
