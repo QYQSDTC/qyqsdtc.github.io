@@ -25,4 +25,4 @@ Finally, I met this one, weeb but geek theme, perfectly solves Math rendering an
 
 <!-- slide -->
 
-Thanks !
+# Thanks !
