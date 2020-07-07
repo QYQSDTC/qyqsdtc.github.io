@@ -5,11 +5,11 @@ tags:
   - Blog
 ---
 
-# Blog Migration from Hexo to Jekyll
+Blog Migration from Hexo to Jekyll
 
 <!-- .slide -->
 
-# Due to long time no writing blogs and the update with newest Node.js breaks the compilability of my old blog site built with Hexo. So that I want to shift it to a new frame, Jekyll.
+Due to long time no writing blogs and the update with newest Node.js breaks the compilability of my old blog site built with Hexo. So that I want to shift it to a new frame, Jekyll.
 
 <!-- .slide vertical=true -->
 
