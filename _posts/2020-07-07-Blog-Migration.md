@@ -1,9 +1,9 @@
-—————
+---
 layout: post
 title: Blog Migration
 tags:
 	- Blog
-—————
+---
 
 # Blog Migration from Hexo to Jekyll
 
