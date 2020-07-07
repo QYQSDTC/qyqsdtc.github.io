@@ -1,5 +1,6 @@
 —————
-title: Blog Migration form Hexo
+layout: post
+title: Blog Migration
 tags:
 	- Blog
 —————
