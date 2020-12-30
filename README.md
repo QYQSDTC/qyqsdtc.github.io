@@ -9,7 +9,7 @@ Welcome to my Blog! Let me introduce myself to you~
 ## 我的一些联系方式 Contacts
 <!-- slide vertical=true -->
 
-* Address: ** Huazhong Univ. of Science & Technology, Wuhan, Hubei, China ** 
+* Address: **Huazhong Univ. of Science & Technology, Wuhan, Hubei, China** 
 * Site: **[https://qyqsdtc.github.io](https://qyqsdtc.github.io)**
 
 <!-- slide -->
