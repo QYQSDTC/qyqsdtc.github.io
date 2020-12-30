@@ -60,8 +60,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                #href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320
-                href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=320"
+                # href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320
+                href="/assets/img/QYQ.png"
               />
               <link
                 rel="shortcut
@@ -229,7 +229,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=320 # 头像的地址
+              img: /assets/img/QYQ.png
+                # https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?s=320 
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -435,15 +436,20 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             enable: true
           katex: # katex 数学公式插件
             enable: true
-            append: |
+            append: | # 对KaTeX过长公式渲染超出页面的修正，感谢[@AmachiInori](https://github.com/wu-kan/wu-kan.github.io/issues/13)
               <link
                 rel="stylesheet"
-                href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+                href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
               />
+              <style>
+                .katex-display>.katex {
+                  white-space: normal;
+                }
+              </style>
               <script
-                src="https://cdn.jsdelivr.net/combine/npm/katex@0.11.1/dist/katex.min.js,npm/katex@0.11.1/dist/contrib/mathtex-script-type.min.js,npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+                src="https://cdn.jsdelivr.net/combine/npm/katex@0.12.0/dist/katex.min.js,npm/katex@0.12.0/dist/contrib/auto-render.min.js"
                 async="async"
-                onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
+                onload='renderMathInElement(document.body, { delimiters: [{left: "$$", right: "$$", display: true}, { left: "$", right: "$", display: false }, {left: "\\(", right: "\\)", display: false}, {left: "\\[", right: "\\]", display: true}]})'
               ></script>
           mermaid: # mermaid图插件
             enable: true
