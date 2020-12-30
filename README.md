@@ -9,14 +9,13 @@ Welcome to my Blog! Let me introduce myself to you~
 ## 我的一些联系方式 Contacts
 <!-- slide vertical=true -->
 
-* Address: **University of Texas Rio Grande Valley - 1 West University Blvd - Texas, US**
+* Address: ** Huazhong Univ. of Science & Technology, Wuhan, Hubei, China ** 
 * Site: **[https://qyqsdtc.github.io](https://qyqsdtc.github.io)**
 
 <!-- slide -->
 
 * E-mail:
 	* **[qyqstc@gmail.com](qyqstc@gmail.com)**
-	* **[yiqian.qian01@utrgv.edu](yiqian.qian01@utrgv.edu)**
 
 * Facebook: **Benny Albert**
 
@@ -26,7 +25,7 @@ Welcome to my Blog! Let me introduce myself to you~
 
 - B.S., Department of Physics, Huazhong University of Science & Technology, Wuhan, China
 - M.S., Dept. of Physics & Astronomy, University of Texas Rio Grande Valley, Texas, US
-
+- Research Assistant @ Huazhong Univ. of Science & Techonology
 <!-- slide -->
 
 ## 我的一些技能 Skills
@@ -36,6 +35,7 @@ Welcome to my Blog! Let me introduce myself to you~
 	* **MPI**, Familiar&Learning
 	* **CUDA**, Learning
 * **Python**, Familiar
+	* **ML/DL**, Familiar
 
 <!-- slide vertical=true -->
 
@@ -44,6 +44,7 @@ Welcome to my Blog! Let me introduce myself to you~
 * **Linux**, Familiar&Learning
 * **Git**, Familiar
 * **VSCode**, Familiar
+* **MATLAB**, Advanced
 
 <!-- slide -->
 
@@ -53,6 +54,17 @@ Welcome to my Blog! Let me introduce myself to you~
 - General Relativity
 - Gravitaional Wave
 - Pulsar Timing Array
+- Super Massive Black Hole
+- Theory of Everything
+
+<!-- slide -->
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computational Vision
+- High Performance Computing
+- High Througput Computing
+- Gaming
 
 <!-- slide vertical=true -->
 
