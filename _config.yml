@@ -61,13 +61,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <link
                 rel="apple-touch-icon-precomposed"
                 # href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320
-                href="/assets/img/64344842_p0.png"
+                href=/assets/img/64344842_p0.png
               />
               <link
                 rel="shortcut
                 icon"
                 # href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=32"
-                href="/assets/img/64344842_p0.png"
+                href=/assets/img/64344842_p0.png
               />
             - | # 来自lanyon的页面样式，不要改
               <link
