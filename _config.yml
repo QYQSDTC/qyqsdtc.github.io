@@ -66,7 +66,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <link
                 rel="shortcut
                 icon"
-                href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=32"
+                # href="https://img.tapimg.com/market/lcs/9f83d01542c095f004a745651a753229_360.png?imageMogr2/auto-orient/strip?s=32"
+                href="https://cdn.blocktoro.com/wp-content/uploads/2020/08/One-Punch-Man-Chapter-134-Spoilers-Leaks-Saitama-saves-Tatsumaki-and-Genos-from-Psykos--e1597472146861-1200x600.jpg?s=32"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
