@@ -61,7 +61,22 @@ Hereafter a some methods usually used to evaluate models (classification).
 
 Confusion matrix is a quick view of how good your classification model is.
 
+<img src="/Users/qyq/Development/My_Blog/assets/img/CleanShot 2021-01-05 at 15.16.55@2x.png" alt="Confusion Matrix" style="zoom:50%;" />
 
+Here are several quantities we use in terms of confusion matrix:
 
+- Recall: $\frac{TP}{TP+FN}$  ability to find all relevant instances
+- Precision: $\frac{TP}{TP+FP}$  the proportion of the data points that the model says was relevant actually were relevant
+- F1 score: harmonic mean of precision and recall $\mathrm{F}_1=2*\frac{\mathrm{precision} * \mathrm{recall}}{\mathrm{precision} + \mathrm{recall}}$ 
+- ROC curve: shows how the recall vs precision relationship changes as we vary the threshold for identifying a positive in our model.
+  - True positive: $\frac{TP}{TP+FN}$ 
+  - False positive: $\frac{FP}{FP+TN}$ 
+- AUC: area under curve is a way to measure the performance of model, the higher value means the better performance
 
+<img src="/Users/qyq/Development/My_Blog/assets/img/Notes-4.jpg" alt="Model evaluation" style="zoom:50%;" />
 
+Later I will upload an example using ML/DL to classify quasars and galaxies.
+
+I plan to start a project tracing my learning road to ML/DL, this will be a series posts.
+
+**If I have time and I am not lazy** :-)
