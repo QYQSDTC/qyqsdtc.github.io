@@ -1,9 +1,9 @@
 ---
-Title: Machine Learning & Deep Learning
-Format: post
-Tags:
+title: Machine Learning & Deep Learning
+format: post
+tags:
 	- Machine Learning
-	= Deep Learning
+	- Deep Learning
 ---
 
 
