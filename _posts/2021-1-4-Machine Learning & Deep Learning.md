@@ -61,7 +61,7 @@ Hereafter a some methods usually used to evaluate models (classification).
 
 Confusion matrix is a quick view of how good your classification model is.
 
-<img src="{site.baseurl}/assets/img/CleanShot 2021-01-05 at 15.16.55@2x.png" alt="Confusion Matrix" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-01-05 at 15.16.55@2x.png" alt="Confusion Matrix" style="zoom:50%;" />
 
 Here are several quantities we use in terms of confusion matrix:
 
@@ -73,7 +73,7 @@ Here are several quantities we use in terms of confusion matrix:
   - False positive: $\frac{FP}{FP+TN}$ 
 - AUC: area under curve is a way to measure the performance of model, the higher value means the better performance
 
-<img src="{site.baseurl}/assets/img/Notes-4.jpg" alt="Model evaluation" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/Notes-4.jpg" alt="Model evaluation" style="zoom:50%;" />
 
 Later I will upload an example using ML/DL to classify quasars and galaxies.
 
