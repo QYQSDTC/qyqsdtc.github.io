@@ -1,6 +1,6 @@
 ---
 Format: post
-Tag: deep learning, machine learning
+Tags: deep learning, machine learning
 ---
 
 
