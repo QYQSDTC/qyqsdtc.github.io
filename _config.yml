@@ -559,7 +559,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               onload='
                 new Valine({
                   "el": document.getElementsByClassName("v")[0],
-                  "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
+                  "appId": "92GXhRIwSDiTvvLlTuikimeX-gzGzoHsz",
                   "appKey": "6cNrFB8mFG7CKgT5KkxEaLFV",
                   "placeholder": "在这里评论吧!",
                   "requiredFields": ["nick","mail"],
