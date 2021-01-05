@@ -2,8 +2,8 @@
 title: Machine Learning & Deep Learning
 format: post
 tags:
-	- Machine Learning
-	- Deep Learning
+  - Machine Learning
+  - Deep Learning
 ---
 
 
