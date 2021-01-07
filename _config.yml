@@ -564,7 +564,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   "placeholder": "在这里评论吧!",
                   "requiredFields": ["nick","mail"],
                   "visitor": true,
-                  "recordIP": true
+                  "recordIP": true,
+                  "avatar": robohash
                 })'
             ></script>
         post:
