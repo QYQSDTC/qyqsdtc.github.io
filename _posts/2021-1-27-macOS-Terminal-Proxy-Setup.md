@@ -1,9 +1,9 @@
 ---
-Title: macOS Terminal Proxy Setup
-Format: post
-Tags:
-	- macOS
-	- proxy
+title: macOS Terminal Proxy Setup
+format: post
+tags:
+  - macOS
+  - proxy
 ---
 
 # macOS Terminal Proxy Setup
