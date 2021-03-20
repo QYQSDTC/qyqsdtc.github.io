@@ -25,11 +25,11 @@ tags:
 
 确保你的surge打开了增强模式，并且已经是系统代理
 
-![CleanShot 2021-03-20 at 11.12.34@2x](/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/CleanShot 2021-03-20 at 11.12.34@2x.png)
+![CleanShot 2021-03-20 at 11.12.34@2x]({{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/CleanShot 2021-03-20 at 11.12.34@2x.png)
 
 接下来查看Mac的内网IP
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/CleanShot 2021-03-20 at 11.15.29@2x.png" alt="CleanShot 2021-03-20 at 11.15.29@2x" style="zoom: 50%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/CleanShot 2021-03-20 at 11.15.29@2x.png" alt="CleanShot 2021-03-20 at 11.15.29@2x" style="zoom: 50%;" />
 
 记住这个内网IP，接下来我们设置想要代理的设备。
 
@@ -39,21 +39,21 @@ tags:
 
 首先我们打开手机上的无线网设置，连接与Mac相同的局域网，然后手动设置ip address 为任意内网未使用ip，子网掩码不用改，然后把路由器地址改为Mac端内网ip
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0904-6211748.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0904-6211748.PNG" style="zoom:33%;" />
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0905-6211762.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0905-6211762.PNG" style="zoom:33%;" />
 
-之后再在DNS添加**192.18.0.2**
+之后再在DNS添加**198.18.0.2**
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0906.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0906.PNG" style="zoom:33%;" />
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0908.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0908.PNG" style="zoom:33%;" />
 
 这样便设置完成了。
 
 如果能在Mac端的surge内看到这个设备的流量便说明代理成功了。
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/CleanShot 2021-03-20 at 12.14.05@2x.png" alt="CleanShot 2021-03-20 at 12.14.05@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/CleanShot 2021-03-20 at 12.14.05@2x.png" alt="CleanShot 2021-03-20 at 12.14.05@2x" style="zoom:50%;" />
 
 
 
@@ -67,9 +67,9 @@ tags:
 
 只需要和安装了surge的设备连接在同一Wi-Fi下，打开无线设置->Config Proxy，然后填入ios surge内的ip和port就🉑️
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0909.PNG" alt="IMG_0909" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/IMG_0909.PNG" alt="IMG_0909" style="zoom:33%;" />
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0910.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0910.PNG" style="zoom:33%;" />
 
-<img src="/Users/qyq/Library/Mobile Documents/com~apple~CloudDocs/Development/My_Blog/_posts/2021-3-20-Surge for Mac as Gateway.assets/IMG_0911.PNG" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0911.PNG" style="zoom:33%;" />
 
