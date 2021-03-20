@@ -67,7 +67,7 @@ tags:
 
 只需要和安装了surge的设备连接在同一Wi-Fi下，打开无线设置->Config Proxy，然后填入ios surge内的ip和port就🉑️
 
-<img src="{{site.baseurl}}/assets/img/IMG_0909.PNG" alt="IMG_0909" style="zoom:33%;" />
+<img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0909.PNG" alt="IMG_0909" style="zoom:33%;" />
 
 <img src="{{site.baseurl}}/assets/img/2021-3-20-Surge-for-Mac-as-Gateway.assets/IMG_0910.PNG" style="zoom:33%;" />
 
