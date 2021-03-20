@@ -1,7 +1,7 @@
 ---
-Title: Surge for Mac as Gateway
-Format: post
-Tag:
+title: Surge for Mac as Gateway
+format: post
+tags:
 	Surge
 	Mac
 	VPN
