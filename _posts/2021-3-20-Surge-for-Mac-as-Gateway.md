@@ -2,9 +2,9 @@
 title: Surge for Mac as Gateway
 format: post
 tags:
-	Surge
-	Mac
-	VPN
+  - Surge
+  - Mac
+  - VPN
 ---
 
 # Surge for Mac as Gateway: Turn your Mac into a powerful VPN server.
