@@ -1,4 +1,6 @@
 ---
+Title: Surge for Mac as Gateway
+Format: post
 Tag:
 	Surge
 	Mac
