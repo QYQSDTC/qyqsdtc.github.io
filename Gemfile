@@ -27,4 +27,8 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", :install_if => Gem.win_platform?
+
+# for vulnerabilities
 gem "activesupport", ">=4.1.11"
+gem "kramdown", ">=2.3.0"
+gem "jekyll", ">=3.6.3"
