@@ -20,7 +20,7 @@ From Wikipedia
 
 There are not much commands need to talk about, just need to spend some time to learn about the keyboard shortcuts.
 
-<img src="../assets/img/CleanShot 2021-06-02 at 16.21.26@2x.png" alt="CleanShot 2021-06-02 at 16.21.26@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.21.26@2x.png" alt="CleanShot 2021-06-02 at 16.21.26@2x" style="zoom:50%;" />
 
 ## Sessions, windows & panels
 
