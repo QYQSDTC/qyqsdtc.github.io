@@ -10,6 +10,8 @@ tags:
 
 [toc]
 
+
+
 ## What is Tmux
 
 From Wikipedia 
@@ -18,7 +20,7 @@ From Wikipedia
 
 There are not much commands need to talk about, just need to spend some time to learn about the keyboard shortcuts.
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_PjoJoS4VK9/CleanShot 2021-06-02 at 16.21.26@2x.png" alt="CleanShot 2021-06-02 at 16.21.26@2x" style="zoom:50%;" />
+<img src="../assets/img/CleanShot 2021-06-02 at 16.21.26@2x.png" alt="CleanShot 2021-06-02 at 16.21.26@2x" style="zoom:50%;" />
 
 ## Sessions, windows & panels
 
@@ -28,11 +30,11 @@ When you type `tmux` in command line, you start a tmux session and in each tmux 
 
 In a tmux session we can create a window by typing `Ctrl+b c` . Now we can see a *0:zsh\** at bottom, *0* represents the number of this window, and *\** represents the active window.
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_t24Hfmdlzi/CleanShot 2021-06-02 at 16.29.23@2x.png" alt="CleanShot 2021-06-02 at 16.29.23@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.29.23@2x.png" alt="CleanShot 2021-06-02 at 16.29.23@2x" style="zoom:50%;" />
 
 We can use `Ctrl+b ,` to change the name of this window, now it becomes *Genius* rather than *zsh*.
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_Y5WkpIKxk3/CleanShot 2021-06-02 at 16.31.57@2x.png" alt="CleanShot 2021-06-02 at 16.31.57@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.31.57@2x.png" alt="CleanShot 2021-06-02 at 16.31.57@2x" style="zoom:50%;" />
 
 We can switch between different windows by using these shortcuts:
 
@@ -48,11 +50,11 @@ At last, use `Ctrl+b &` to close the current window.
 
 `Ctrl+b "` to split the horizontally
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_EQHX3Ssw9P/CleanShot 2021-06-02 at 16.35.26@2x.png" alt="CleanShot 2021-06-02 at 16.35.26@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.35.26@2x.png" alt="CleanShot 2021-06-02 at 16.35.26@2x" style="zoom:50%;" />
 
 `Ctrl+b %` to split vertically
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_he71dvqZwi/CleanShot 2021-06-02 at 16.36.37@2x.png" alt="CleanShot 2021-06-02 at 16.36.37@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.36.37@2x.png" alt="CleanShot 2021-06-02 at 16.36.37@2x" style="zoom:50%;" />
 
 Switching around panels:
 
@@ -63,7 +65,7 @@ Switching around panels:
 
 There is an alternative way to switch, that is to type `ctrl+b q` and tmux will show the number of different panels, then type the corresponding number before it disappears(you have to be very quick).
 
-<img src="/Users/qyq/Library/Application Support/CleanShot/media/media_A4etX2TFUG/CleanShot 2021-06-02 at 16.39.44@2x.png" alt="CleanShot 2021-06-02 at 16.39.44@2x" style="zoom:50%;" />
+<img src="{{site.baseurl}}/assets/img/CleanShot 2021-06-02 at 16.39.44@2x.png" alt="CleanShot 2021-06-02 at 16.39.44@2x" style="zoom:50%;" />
 
 Last, use `ctrl+b x` to close current active panel.
 
