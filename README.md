@@ -26,6 +26,7 @@ Welcome to my Blog! Let me introduce myself to you~
 - B.S., Department of Physics, Huazhong University of Science & Technology, Wuhan, China
 - M.S., Dept. of Physics & Astronomy, University of Texas Rio Grande Valley, Texas, US
 - Research Assistant @ Huazhong Univ. of Science & Techonology
+- Cooperative PhD. candidate @HUST & UTRGV
 <!-- slide -->
 
 ## 我的一些技能 Skills
