@@ -1,10 +1,13 @@
 ---
 format: post
-tag:
+tag: 
   - Conda
-  - pulsar softwares
   - M1 Mac
+  - Pulsar Software
 ---
+
+
+
 # Installation of Pulsar Softwares on M1 Mac
 
 # Preface and Preparation
