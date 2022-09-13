@@ -1,6 +1,6 @@
 ---
 format: post
-tags:
+tag:
  - 科研
  - LaTex
  - Vimtex
