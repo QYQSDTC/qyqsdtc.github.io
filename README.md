@@ -28,6 +28,9 @@ Welcome to my Blog! Let me introduce myself to you~
 - B.S., Department of Physics, Huazhong University of Science & Technology, 2013-2017, Wuhan, China
 - M.S., Dept. of Physics & Astronomy, University of Texas Rio Grande Valley, 2018-2020, Texas, United States
 - Research Assistant @ Huazhong Univ. of Science & Techonology, 2020-2021
+
+<!-- slide vertical=true -->
+
 - Astrophysics PhD. candidate @Huazhong Univ. of Sci. & Tech., 2021-2025
 - Visiting scholar @Western University, 2023-2024, Ontario, Canada
 
