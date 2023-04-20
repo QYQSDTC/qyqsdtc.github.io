@@ -105,7 +105,7 @@ macOS 和 Linux 用户也有相对应的软件，如 macOS 上的 Microsoft Remo
 
 服务器默认设置开机自动启动 Clash，但是个人账户下需要在网络设置中打开代理设置，按照下图设置：
 
-[clash-setting]({{site.baseurl}}/assets/img/clash-setting.png)
+![clash-setting]({{site.baseurl}}/assets/img/clash-setting.png)
 
 然后就可以开心的 Google 了。
 
