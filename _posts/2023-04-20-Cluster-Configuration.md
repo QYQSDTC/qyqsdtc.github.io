@@ -294,6 +294,34 @@ sudo ufw allow 3389 # 对所有ip开放
 sudo ufw allow from 192.168.0.1/8 to any port 3389 # 允许一个网段内的ip
 ```
 
+#### How to Fix “Authentication is required to create a color profile/managed device”
+
+##### 解决“色彩管理设备认证”弹窗 "color managed device"
+
+```bash
+[Allow Colord all Users]
+Identity=unix-user:*
+Action=org.freedesktop.color-manager.create-device;org.freedesktop.color-manager.create-profile;org.freedesktop.color-manager.delete-device;org.freedesktop.color-manager.delete-profile;org.freedesktop.color-manager.modify-device;org.freedesktop.color-manager.modify-profile
+ResultAny=no
+ResultInactive=no
+ResultActive=yes
+```
+
+##### 解决“刷新系统软件源认证”弹窗 "refresh the system repositories"
+
+创建文件`/etc/polkit-1/localauthority/50-local.d/46-allow-packagekit.pkla`并写入
+
+```bash
+[Allow Refresh Repository all Users]
+Identity=unix-user:*
+Action=org.freedesktop.packagekit.system-sources-refresh
+ResultAny=no
+ResultInactive=no
+ResultActive=yes
+```
+
+这可以解决大部分需要输入密码的情况，如果还有其他情况参考[这篇文章](https://blog.csdn.net/wu_weijie/article/details/108481456)。
+
 ### Clash for Windows on Linux
 
 这个配置比较简单，直接去[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)的 GitHub 仓库下载 Linux 版本的压缩包。
