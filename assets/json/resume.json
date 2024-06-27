@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Yiqian Qian",
-    "label": "Scientist",
-    "image": "",
+    "image": "prof_pic.jpg",
     "email": "yiqian@hust.edu.cn",
     "phone": "",
-    "url": "https://blog.drqyq.com",
-    "summary": "A data scientist and astrophysicist",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "1037 Luoyu Road",
       "postalCode": "430074",
@@ -14,104 +13,43 @@
       "countryCode": "CN",
       "region": "Hubei"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "BennyAlbert2",
-        "url": "https://twitter.com/BennyAlbert2"
-      }
-    ]
-  },
-  "work": [
+    "education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Huazhong University of Science and Technology",
+      "location": "Wuhan, China",
+      "url": "",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-28"
+    },
+    {
+      "institution": "University of Texas Rio Grande Valley",
+      "location": "Brownsville, US",
+      "area": "Physics",
+      "studyType": "M.S.",
+      "startDate": "2018-08-18",
+      "endDate": "2020-08-20"
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "location": "Wuhan, China",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-26"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": " 华中科技大学第二十二届研究生创新基金",
+      "date": "2024-05-31",
+      "awarder": " 华中科技大学",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
+    "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -123,7 +61,7 @@
   "skills": [
     {
       "name": "Physics",
-      "level": "Master",
+      "level": "PhD",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Gravitational Waves",
@@ -132,6 +70,16 @@
         "Data Analysis",
         "Machine Learning",
         "General Relativity"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "Master",
+      "keywords": [
+        "Machine Learning",
+        "High Performance Computing",
+        "Python, C/C++, MATLAB",
+        "Shell Script"
       ]
     }
   ],
@@ -152,12 +100,11 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "gravitational waves",
+        "pulsar",
+        "pulsar timing",
+        "pulsar timing array",
+        "Artificial Intelligence"
       ]
     }
   ],
