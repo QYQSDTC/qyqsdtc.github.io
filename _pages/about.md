@@ -6,7 +6,7 @@ subtitle: A PhD student @HUST working on gravitational waves.
 
 profile:
   align: right
-  image: /assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Center of Gravitaional Wave Experiment, Huazhong Univ. of Sci. and Tech.</p>
