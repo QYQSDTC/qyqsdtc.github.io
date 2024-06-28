@@ -3,9 +3,6 @@
     "name": "Yiqian Qian",
     "image": "prof_pic.jpg",
     "email": "yiqian@hust.edu.cn",
-    "phone": "",
-    "url": "",
-    "summary": "",
     "location": {
       "address": "1037 Luoyu Road",
       "postalCode": "430074",
@@ -44,9 +41,7 @@
     {
       "title": "the Fundamental Research Funds for the Central Universities",
       "date": "2024-05-31",
-      "awarder": "Huazhong University of Science and Technology",
-      "url": "",
-      "summary": ""
+      "awarder": "Huazhong University of Science and Technology"
     }
   ],
     "publications": [
@@ -71,18 +66,8 @@
         "Machine Learning",
         "General Relativity"
       ]
-    },
-    {
-      "name": "Computer Science",
-      "level": "Master",
-      "keywords": [
-        "Machine Learning",
-        "High Performance Computing",
-        "Python, C/C++, MATLAB",
-        "Shell Script"
-      ]
     }
-  ],
+      ],
   "languages": [
     {
       "language": "Chinese",
