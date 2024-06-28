@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: QYQの雑貨店 # the website title (if blank, full name will be used instead)
+title: Yiqian Qian # the website title (if blank, full name will be used instead)
 first_name: Yiqian
 middle_name: 
 last_name: Qian
@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: QYQの雑貨店 # blog_name will be displayed in your blog page
+blog_description: You can find all kinds of black magic here. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
