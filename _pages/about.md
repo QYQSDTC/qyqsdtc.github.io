@@ -17,4 +17,4 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, my name is Yiqian Qian, a PhD candidate at Huazhong University of Science and Technology. 
+Hello, my name is Yiqian Qian, and I am a PhD candidate at Huazhong University of Science and Technology. My research interests include gravitational waves, data analysis, and the application of artificial intelligence in astronomy. With 8 years of experience in gravitational wave data analysis, I have developed a pipeline for detecting gravitational waves within Pulsar Timing Array data. Proficient in MATLAB, Python, and C/C++, I utilize these programming languages individually or synergistically to tackle challenges in gravitational wave searches. Additionally, I am deeply fascinated by the potential of machine learning to address scientific problems.
