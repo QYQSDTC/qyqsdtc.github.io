@@ -36,7 +36,7 @@
   contents:
     - title: Research Assistant
       institution: Univerisity of Texas Rio Grande Valley 
-      year: 2018 - 2020
+      year: 2018-2020
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -69,7 +69,8 @@
   contents:
     - year: 2024
       items:
-        - the Fundamental Funds for the Central Universities
+        - the Fundamental Research Funds for the Central Univer-
+sities
     - year: 2022
       items:
         - Chinese Scholarship Council
