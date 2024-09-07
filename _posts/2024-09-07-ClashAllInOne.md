@@ -5,6 +5,8 @@ description: Clash Verge：一款功能强大的代理工具
 date: 2024-09-07
 tags: Clash VPN 代理
 categories: QyQ-Tech 网络工具
+images:
+   slider: true
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
